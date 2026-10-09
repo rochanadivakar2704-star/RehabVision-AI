@@ -1,0 +1,2 @@
+accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,n_repetitions,n_participants,n_splits
+0.7256385998107853,0.7265821966513673,0.7258926141815734,0.7265821966513673,0.7254850334579948,1057,10,5
